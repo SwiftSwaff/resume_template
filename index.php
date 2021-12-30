@@ -5,9 +5,9 @@
     </head>
     <body>
         <div class="resume-container">
-            <?php include_once("modules/header.php"); ?>
-            <?php include_once("modules/resume.php"); ?>
-            <?php include_once("modules/footer.php"); ?>
+            <?php include_once("components/header.php"); ?>
+            <?php include_once("components/resume.php"); ?>
+            <?php include_once("components/footer.php"); ?>
         </div>
     </body>
 </html>
